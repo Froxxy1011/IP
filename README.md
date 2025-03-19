@@ -14,10 +14,11 @@
 
 ```ts
 1. Download the file (https://github.com/Froxxy1011/IP.git or Download Zip)
+2- Navigate in to the directory(cd IP)
 2. Install the required modules with:
    > pip install -r requirements.txt
 3. Run the application using:
-   > python main.py
+   > python ip_address.py
 4. Enjoy!
 ```
 
