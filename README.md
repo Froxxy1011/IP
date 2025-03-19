@@ -1,6 +1,4 @@
-<h1 align="center">
-  IP FINDER
-</h1>
+
 
 <h1 align="center">🚀 IP FINDER 🚀</h1>
 
