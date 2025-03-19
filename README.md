@@ -17,7 +17,7 @@
 2. Install the required modules with:
    > pip install -r requirements.txt
 3. Run the application using:
-   > python main..py
+   > python main.py
 4. Enjoy!
 ```
 
