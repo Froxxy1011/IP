@@ -23,7 +23,7 @@
 
 ## ⚙️ ~ Requirements
 ```ts
-> Requirement.txt
+> Requirements.txt
 > Python
 ```
 
